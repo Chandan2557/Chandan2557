@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-📍 Based in **New Harsud, Madhya Pradesh, India**  
+📍 Based in **Khandwa, Madhya Pradesh, India**  
 💻 **Full-Stack JavaScript Developer** with a strong focus on the **MERN stack** — MongoDB · Express.js · React.js · Node.js  
 🎯 Deep understanding of **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
 🎨 Passionate about building **scalable web applications**, crafting **design systems**, and developing **reusable UI component libraries** for seamless user experiences.  
