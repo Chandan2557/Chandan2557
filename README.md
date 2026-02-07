@@ -119,12 +119,10 @@ A modern **EdTech platform** built with the **MERN stack** that provides a seaml
 A **Job Platform** designed to help job seekers find and apply to opportunities easily while enabling recruiters to post and manage job listings.
 
 - 🌟 **Key Features:**
-  - User authentication for **job seekers & recruiters**
-  - **Job posting & application management**
-  - **Responsive, dynamic dashboards** for recruiters and candidates
-  - Integration with **REST APIs** for real-time updates
-  - Built for scalability and smooth user experience
-
+  - Designed and developed a responsive restaurant website to showcase menu items, services, and contact details.
+  - Used HTML5 to structure pages like Home, Menu, About Us, and Contact.
+  - Created a clean and user-friendly UI focused on easy navigation and readability.
+ 
 - 🛠 **Tech Stack:** HTML. CSS. JAVASCRIPT
 
 
