@@ -84,10 +84,10 @@
 A complete **e-commerce web application** where users can browse products, add to cart, and place orders.
 
 - 🌟 **Key Features:**
-  - Full **product catalog** with categories & search
-  - **User authentication & profile management**
-  - **Shopping cart & checkout** with secure payment integration
-  - **Admin dashboard** for product & order management
+  - Developed a fully functional E-commerce website with sections for Home, Men, Women, and Kids using React.js.
+  - Implemented user authentication (Login & Signup) to ensure secure access.
+  - Focused on scalable code structure, making it easy to add new categories in the future.
+  - Hosted the project on GitHub for version control and collaboration.
   - Responsive design for desktop & mobile
 
 - 🛠 **Tech Stack:** React.js.
@@ -102,7 +102,7 @@ A complete **e-commerce web application** where users can browse products, add t
 A modern **EdTech platform** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
 
 - 🌟 **Key Features:**
-  - Developed a responsive e-commerce website named FootCape focused on selling footwear online.
+  - Developed a responsive E-commerce website named FootCape focused on selling footwear online.
   - Created product cards with images, prices, and descriptions for better user experience.
   - Designed a user-friendly shopping cart system without using any external libraries or frameworks.
   - Implemented basic form validation for checkout and user inputs using JavaScript.
