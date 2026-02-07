@@ -90,7 +90,7 @@ A complete **e-commerce web application** where users can browse products, add t
   - **Admin dashboard** for product & order management
   - Responsive design for desktop & mobile
 
-- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux · TailwindCSS · JWT Authentication
+- 🛠 **Tech Stack:** React.js.
 
 ---
 
@@ -108,7 +108,7 @@ A modern **EdTech platform** built with the **MERN stack** that provides a seaml
   - Integration with **REST APIs** for dynamic data
   - User-friendly **course enrollment & tracking**
 
-- 🛠 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TailwindCSS · JWT Authentication
+- 🛠 **Tech Stack:** HTML. CSS. JAVASCRIPT
 
 ---
 
