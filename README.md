@@ -102,10 +102,10 @@ A complete **e-commerce web application** where users can browse products, add t
 A modern **EdTech platform** built with the **MERN stack** that provides a seamless learning experience for students and instructors.
 
 - 🌟 **Key Features:**
-  - Interactive **course dashboard** for students & instructors
-  - **Authentication & authorization** for different user roles
-  - **Responsive UI** using React.js & TailwindCSS
-  - Integration with **REST APIs** for dynamic data
+  - Developed a responsive e-commerce website named FootCape focused on selling footwear online.
+  - Created product cards with images, prices, and descriptions for better user experience.
+  - Designed a user-friendly shopping cart system without using any external libraries or frameworks.
+  - Implemented basic form validation for checkout and user inputs using JavaScript.
   - User-friendly **course enrollment & tracking**
 
 - 🛠 **Tech Stack:** HTML. CSS. JAVASCRIPT
